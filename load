@@ -1,0 +1,4 @@
+#load "stats.cmo";;
+#load "pos.cmo";;
+open Stats
+open Pos
